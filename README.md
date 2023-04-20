@@ -38,3 +38,5 @@ Copy parsed_sbts.sqlite to resource/db/
 python slick_ui.py
 
 
+# Current issues
+parser cannot parse last chunk of objects based on mo chunk size
