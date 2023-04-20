@@ -1,0 +1,12 @@
+Name,Address,User,Pass,Protocol,Port,Group
+Name,Address,User,Pass,Protocol,Port,Group
+RNDH01_N,10.24.53.2,root,root,ssh,22,RNC
+RNDH02_N,10.19.33.35,root,root,ssh,22,RNC
+BSDH01_N,10.13.56.4,SYSTEM,SYSTEM,ssh,45,BSC
+BSDH02_N,10.13.56.12,SYSTEM,SYSTEM,ssh,22,BSC
+BSDH03_N,10.19.33.52,SYSTEM,SYSTEM,ssh,22,BSC
+BSDH04_N,10.13.56.20,SYSTEM,SYSTEM,ssh,22,BSC
+BSDH05_N,10.21.144.132,SYSTEM,SYSTEM,ssh,22,BSC
+BSDH06_N,10.13.56.68,SYSTEM,SYSTEM,ssh,22,BSC
+test,test,test,test,test,22,RNC
+fest,fest,fest,fest,fest,22,BSC

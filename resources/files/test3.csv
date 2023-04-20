@@ -1,0 +1,5 @@
+Name,Address,User,Pass,Protocol,Port,Group,
+RNDH01_N,10.19.33.35,root,root,
+RNDH02_N,10.24.53.2,root,root,
+BSDH01_N,10.19.33.35,SYSTEM,SYSTEM,
+BSDH02_N,10.24.53.2,SYSTEM,SYSTEM,
